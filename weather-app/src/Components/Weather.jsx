@@ -7,8 +7,8 @@ import rainyday_icon from '../assets/rainy-day.png'
 import sun_icon from '../assets/sun.png'
 import snow_icon from '../assets/snow.png'
 import cloudy_icon from '../assets/cloudy.png'
-import humidity_icon from '../assets/humidity.png'
-import wind_icon from '../assets/wind.png'
+import humidity_icon from '../assets/humidity1.png'
+import wind_icon from '../assets/wind1.png'
 
 const weather = () => {
   return (
@@ -34,7 +34,7 @@ const weather = () => {
             <div className='col'>
                 <img src={wind_icon} alt="" />
                 <div>
-                    <p>3.6Km/h</p>
+                    <p>3.6 Km/h</p>
                     <span>Wind Speed</span>
                 </div>
             </div>
