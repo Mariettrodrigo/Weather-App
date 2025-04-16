@@ -98,8 +98,6 @@ useEffect(()=>{
                     <span>Wind Speed</span>
                 </div>
             </div>
-
-            
         </div>
 
         </>:<></>}
